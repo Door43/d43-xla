@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xla:home|Door43 (xla)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xla|d43-xla repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xla/archive/master.zip|d43-xla.zip]]
+
+**Recent Changes**
+{{changes>ns = xla}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xla|Ethnologue data]]
+
